@@ -1,0 +1,22 @@
+{
+  "name": "nameinverter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nameInverter.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashenou/nameInverter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashenou/nameInverter/issues"
+  },
+  "homepage": "https://github.com/Ashenou/nameInverter#readme"
+}
